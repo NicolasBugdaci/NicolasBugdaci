@@ -6,9 +6,7 @@
 - 🌱 I’m learning **advanced Swift programming, UIKit/SwiftUI, UI and UX design principles, and everything that can help me!**
 
 - 👯 I’m looking to collaborate on [my actual company application, MobilePay!](https://mobilepay.dk/)
-
-- ⚡ Fun fact **after 4 years of not coding, I'm enjoying coding again in the world of iOS and Swift :)**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolasbugdaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasbugdaci" height="30" width="40" /></a>
