@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **becoming an iOS accomplished developer by building apps**
 
-- 🌱 I’m currently learning **advanced Swift programming, UIKit, SwiftUI UI and UX design principles, and everything that can help me!**
+- 🌱 I’m currently learning **advanced Swift programming, UIKit/Swift, UI UI and UX design principles and everything that can help me!**
 
 - 👯 I’m looking to collaborate on [my actual company application, MobilePay!](https://mobilepay.dk/)
 
