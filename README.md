@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on **becoming an iOS accomplished developer by building apps**
 
-- 🌱 I’m currently learning **Advanced Swift programming and everything that can help me!**
+- 🌱 I’m currently learning **advanced Swift programming, UIKit, SwiftUI UI and UX design principles, and everything that can help me!**
 
-- ⚡ Fun fact **After 4 years of not coding, I'm enjoying coding again in the world of iOS and Swift :)**
+- 👯 I’m looking to collaborate on [my actual company application, MobilePay!](https://mobilepay.dk/)
+
+- ⚡ Fun fact **after 4 years of not coding, I'm enjoying coding again in the world of iOS and Swift :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
