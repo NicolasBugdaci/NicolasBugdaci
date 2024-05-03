@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **becoming an iOS accomplished developer by building apps**
 
-- 🌱 I’m currently learning **advanced Swift programming, UIKit/SwiftUI, UI and UX design principles, and everything that can help me!**
+- 🌱 I’m currently learning **advanced Swift programmation, UIKit/SwiftUI, UI and UX design principles and everything that can help me!**
 
 - 👯 I’m looking to collaborate on [my actual company application, MobilePay!](https://mobilepay.dk/)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/nicolasbugdaci/](https://www.linkedin.com/in/nicolasbugdaci/)
 
 - ⚡ Fun fact **after 4 years of not coding, I'm enjoying coding again in the world of iOS and Swift :)**
 
