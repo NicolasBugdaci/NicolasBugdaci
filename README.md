@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **becoming an iOS accomplished developer by building apps**
 
-- 🌱 I’m currently learning **Advanced Swift programmation and everything that can help me!**
+- 🌱 I’m currently learning **Advanced Swift programming and everything that can help me!**
 
 - ⚡ Fun fact **After 4 years of not coding, I'm enjoying coding again in the world of iOS and Swift :)**
 
