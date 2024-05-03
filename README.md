@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on **becoming an iOS accomplished developer by building apps**
 
+- 🔭 I work as a Support Engineer for my colleagues developers 😊
 - 🌱 I’m learning **advanced Swift programming, UIKit/SwiftUI, UI and UX design principles, and everything that can help me!**
-
-- 👯 I’m looking to collaborate on [my actual company application, MobilePay!](https://mobilepay.dk/)
+- 👯 I’m looking to collaborate on my actual company application, [MobilePay!](https://mobilepay.dk/)
+- 🌈 Fun fact: I love mounting PCs for family and friends 💪
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
