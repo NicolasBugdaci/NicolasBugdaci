@@ -3,7 +3,7 @@
 </div>
 
 
-# 💫 About Me:
+# 👋 Hey There!
 🔭 I’m currently working on **becoming an accomplished Swift developer by building apps**<br>💻 I work as a Support Engineer for my colleague's developers 😊<br>🌱 I’m learning **advanced Swift programming, UIKit/SwiftUI, UI, and UX design principles, and everything that can help me!**<br>👯 I’m looking to collaborate on my actual company application, [MobilePay!](https://mobilepay.dk/)<br>🌈 Fun fact: I love mounting PCs for family and friends 💪
 
 
@@ -11,15 +11,6 @@
     <a href="https://www.linkedin.com/in/nicolasbugdaci/">
     <img src="https://skillicons.dev/icons?i=apple,swift,github,git,azure,gcp,figma,html,css,js,bootstrap,wordpress,windows,vscode,notion,md&perline=16" />
       </a>
-</p
-
-###
-
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolasbugdaci/">
-        <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
 </p
 
 ###
@@ -35,3 +26,11 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolasbugdaci/">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p
