@@ -1,8 +1,3 @@
-<div align="left">
-  <img height="200" src="https://camo.githubusercontent.com/f40763a4242114e0c6b6d5377f279a00889c7447420cc94f1eeb86c9df6b9aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f666f726d61743a776562702f312a735636304a686c594c344964576a634e764b544a52412e706e67"  />
-</div>
-
-
 # 👋 Hey There!
 🔭 I’m currently working on **becoming an accomplished Swift developer by building apps**<br>💻 I work as a Support Engineer for my colleague's developers 😊<br>🌱 I’m learning **advanced Swift programming, UIKit/SwiftUI, UI, and UX design principles, and everything that can help me!**<br>👯 I’m looking to collaborate on my actual company application, [MobilePay!](https://mobilepay.dk/)<br>🌈 Fun fact: I love mounting PCs for family and friends 💪
 
