@@ -1,5 +1,7 @@
 # 👋 Hey There!
-🔭 I’m currently working on **becoming an accomplished Swift developer by building apps**<br>💻 I work as a Support Engineer for my colleague's developers 😊<br>🌱 I’m learning **advanced Swift programming, UIKit/SwiftUI, UI, and UX design principles, and everything that can help me!**<br>👯 I’m looking to collaborate on my actual company application, [MobilePay!](https://mobilepay.dk/)<br>🌈 Fun fact: I love mounting PCs for family and friends 💪
+💻 I work as a Support Engineer for my colleague's developers 😊<br>
+👯 I’m looking to collaborate on my actual company application, [MobilePay!](https://mobilepay.dk/)<br>
+🌈 Fun fact: I love mounting PCs for family and friends 💪
 
 
 <p align="left">
